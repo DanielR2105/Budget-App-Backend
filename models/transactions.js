@@ -15,21 +15,21 @@ module.exports = [
     },
     {
         item_name: "Savings",
-        amount: 200,
+        amount: -200,
         date: "December 31",
         from: "Income ",
         category: "Savings"
     },
     {
         item_name: "Tacos",
-        amount: 40,
+        amount: -40,
         date: "December 17",
         from: "Taco Bell",
         category: "Food"
     },
     {
         item_name: "Groceries",
-        amount: 120,
+        amount: -120,
         date: "December 15",
         from: "Grocery Store",
         category: "Food"
